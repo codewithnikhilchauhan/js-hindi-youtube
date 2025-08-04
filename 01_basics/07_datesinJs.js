@@ -27,3 +27,5 @@ let myTimeStamp = Date.now()
 newDate.toLocaleString('default', {
 weekday : "long",
 })
+// in this we use and save
+

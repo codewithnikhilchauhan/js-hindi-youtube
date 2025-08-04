@@ -27,7 +27,7 @@ console.log(newArr);
 console.log("A" , myArr);
 
 const myn1 = myArr.slice(2,4)
-
+// we have done after this
 
 
 

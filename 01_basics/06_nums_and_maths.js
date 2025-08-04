@@ -32,3 +32,5 @@ const Min = 10
 const Max = 20
 
 console.log(Math.floor(Math.random()*(min - max + 1))+ min);
+
+// we have made this for nums and maths
