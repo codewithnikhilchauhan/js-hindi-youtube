@@ -25,4 +25,4 @@ Object.freeze(JsUser)
 // we use this freeze method to freeze that email or something else after this value can't be change
 JsUser.email = "nikhil@yahhoo.com"
 Object.freeze(JsUser)
-
+kdiuwgq
