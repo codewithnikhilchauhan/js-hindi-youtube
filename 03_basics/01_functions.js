@@ -26,4 +26,4 @@ function addTwoNumbers (number1, number2){
 // if we do not give any value to the numbers so we get nan but if we give some like this we get value in it addTwoNumbers(3, 4)
 // and in another case we add the value like this addTwoNumbers(3, "4") so we get the ouitput like 34 it will not add the value in it
 
-console.log("Result: ", result)
+console.log("Result: ", result)mdshbvfakuwevfchjleFVCWQ
